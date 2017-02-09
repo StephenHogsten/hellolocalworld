@@ -1,0 +1,15 @@
+{
+  "name": "hellolocal",
+  "version": "0.0.1",
+  "description": "hello world testing for unit tests and debugging",
+  "main": "server.js",
+  "scripts": {
+    "test": "test.js",
+    "start": "node server.js"
+  },
+  "author": "hogdog",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
